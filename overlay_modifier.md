@@ -1,4 +1,4 @@
-### overlay
+# overlay
 ---
 - overlay modifier를 이용해 View 객체 위에 다른 View 객체를 올릴 수 있다.
 
