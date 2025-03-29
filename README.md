@@ -8,5 +8,8 @@
 ### SwiftUI
 [overlay modifier](https://github.com/dlwnsgurz/iOS_jajal/blob/main/overlay_modifier.md)
 
-### Xcide
+### Xcode
 [Xcode 단축키](https://github.com/dlwnsgurz/iOS_jajal/blob/main/Xcode%20%EB%8B%A8%EC%B6%95%ED%82%A4.md)
+
+### Git
+[gitignore 적용](https://github.com/dlwnsgurz/iOS_jajal/blob/main/Git/gitignore%20%EC%A0%81%EC%9A%A9.md)
