@@ -1,4 +1,4 @@
-# contentMargin
+# contentMargins
 ---
 ```swift
 struct ContentView: View {
