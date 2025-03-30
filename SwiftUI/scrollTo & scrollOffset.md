@@ -1,4 +1,4 @@
-# scrollViewReader
+# scrollTo & scrollOffset
 
 ### scrollTo : 특정 id를 가진 아이템으로 이동
 ```swift
