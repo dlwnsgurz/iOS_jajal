@@ -11,6 +11,12 @@
 - [scrollTargetBehavior](https://github.com/dlwnsgurz/iOS_jajal/blob/main/SwiftUI/scrollTargetBehavior.md)
 
 - [stroke vs border](https://github.com/dlwnsgurz/iOS_jajal/blob/main/SwiftUI/stroke%20vs%20border.md)
+
+- [image_tintColor](https://github.com/dlwnsgurz/iOS_jajal/blob/main/SwiftUI/image_tintColor.md)
+
+- [scrollto & scrollOffset](https://github.com/dlwnsgurz/iOS_jajal/blob/main/SwiftUI/scrollTo%20%26%20scrollOffset.md)
+
+- [contentMargins](https://github.com/dlwnsgurz/iOS_jajal/blob/main/SwiftUI/contentMargins.md)
 ### Xcode
 - [Xcode 단축키](https://github.com/dlwnsgurz/iOS_jajal/blob/main/Xcode%20%EB%8B%A8%EC%B6%95%ED%82%A4.md)
 
