@@ -17,6 +17,9 @@
 - [scrollto & scrollOffset](https://github.com/dlwnsgurz/iOS_jajal/blob/main/SwiftUI/scrollTo%20%26%20scrollOffset.md)
 
 - [contentMargins](https://github.com/dlwnsgurz/iOS_jajal/blob/main/SwiftUI/contentMargins.md)
+
+- [screenSize](https://github.com/dlwnsgurz/iOS_jajal/blob/main/SwiftUI/screenSize.md)
+
 ### Xcode
 - [Xcode 단축키](https://github.com/dlwnsgurz/iOS_jajal/blob/main/Xcode%20%EB%8B%A8%EC%B6%95%ED%82%A4.md)
 
