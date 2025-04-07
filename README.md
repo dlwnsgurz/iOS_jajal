@@ -20,6 +20,10 @@
 
 - [screenSize](https://github.com/dlwnsgurz/iOS_jajal/blob/main/SwiftUI/screenSize.md)
 
+- [imagePicker](https://github.com/dlwnsgurz/iOS_jajal/blob/main/SwiftUI/imagePicker.md)
+
+- [PhotosPicker](https://github.com/dlwnsgurz/iOS_jajal/blob/main/SwiftUI/PhotosPicker.md)
+
 ### Xcode
 - [Xcode 단축키](https://github.com/dlwnsgurz/iOS_jajal/blob/main/Xcode%20%EB%8B%A8%EC%B6%95%ED%82%A4.md)
 
