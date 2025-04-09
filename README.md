@@ -24,6 +24,10 @@
 
 - [PhotosPicker](https://github.com/dlwnsgurz/iOS_jajal/blob/main/SwiftUI/PhotosPicker.md)
 
+- [confirmationDialog](https://github.com/dlwnsgurz/iOS_jajal/blob/main/SwiftUI/confirmationDialog.md)
+
+- [VisionKit OCR](https://github.com/dlwnsgurz/iOS_jajal/blob/main/SwiftUI/VisionKit%20OCR.md)
+
 ### Xcode
 - [Xcode 단축키](https://github.com/dlwnsgurz/iOS_jajal/blob/main/Xcode%20%EB%8B%A8%EC%B6%95%ED%82%A4.md)
 
